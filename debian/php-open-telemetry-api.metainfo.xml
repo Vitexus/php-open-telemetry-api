@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="generic">
+  <id>cz.vitexsoftware.php-open-telemetry-api</id>
+  <metadata_license>MIT</metadata_license>
+  <project_license>Apache-2.0</project_license>
+  <name>OpenTelemetry API for PHP</name>
+  <summary>API for OpenTelemetry PHP</summary>
+  <description>
+    <p>
+      Provides the OpenTelemetry PHP API: Trace, Metrics, Logs, Baggage,
+      Instrumentation, and Configuration interfaces implemented by the
+      OpenTelemetry PHP SDK. Instrumented libraries depend only on this
+      package, not the SDK, to stay backend-agnostic.
+    </p>
+  </description>
+  <icon type="stock">package-x-generic</icon>
+  <url type="homepage">https://github.com/open-telemetry/opentelemetry-php</url>
+</component>

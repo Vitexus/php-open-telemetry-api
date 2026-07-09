@@ -1,0 +1,7 @@
+php-open-telemetry-api (1.9.0-1) UNRELEASED; urgency=medium
+
+  * Initial packaging of open-telemetry/api (tag 1.9.0), a dependency
+    of the OpenTelemetry PHP SDK used by MultiFlexi's OTLP metrics
+    exporter.
+
+ -- Vítězslav Dvořák <info@vitexsoftware.cz>  Thu, 09 Jul 2026 13:18:05 +0200

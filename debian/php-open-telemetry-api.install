@@ -1,0 +1,9 @@
+*.php usr/share/php/OpenTelemetry/API/
+Configuration usr/share/php/OpenTelemetry/API/
+Logs usr/share/php/OpenTelemetry/API/
+Metrics usr/share/php/OpenTelemetry/API/
+Baggage usr/share/php/OpenTelemetry/API/
+Instrumentation usr/share/php/OpenTelemetry/API/
+Behavior usr/share/php/OpenTelemetry/API/
+Common usr/share/php/OpenTelemetry/API/
+Trace usr/share/php/OpenTelemetry/API/
